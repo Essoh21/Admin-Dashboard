@@ -291,6 +291,7 @@ img[src="search.svg"] {
 .icons {
     display: flex;
     justify-content: flex-end;
+    gap: 1rem;
 }
 
 .main-container-right {
