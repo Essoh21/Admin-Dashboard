@@ -1,2 +1,3 @@
 # Admin-Dashboard
-this is a simple admin dashboard made when learning intermediate html and css on the odingproject
+Simple admin dashboard
+Live Preview https://essoh21.github.io/Admin-Dashboard/
